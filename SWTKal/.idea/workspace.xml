@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f89b7511-07dd-4e31-99e1-139b7490d583" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jV5AEaohaWaCROfhWej7LRVNcQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.idea" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Justus Hueske\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Dev\Studium\SWT\Praktikum_1\Aufgabe2\SWTKal" />
+          <option name="myCopyRoot" value="E:\Dev\Studium\SWT\Praktikum_1\Aufgabe2\SWTKal" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Dev\Studium\SWT\Praktikum_1\Aufgabe2\SWTKal" />
+          <option name="myCopyRoot" value="E:\Dev\Studium\SWT\Praktikum_1\Aufgabe2\SWTKal" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f89b7511-07dd-4e31-99e1-139b7490d583" name="Default Changelist" comment="" />
+      <created>1603876274913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603876274913</updated>
+      <workItem from="1603876277506" duration="82000" />
+      <workItem from="1605022790840" duration="11000" />
+      <workItem from="1605623321491" duration="42000" />
+      <workItem from="1606139927626" duration="91000" />
+      <workItem from="1606140035190" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1605623361902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.54.1536.824@0.0.1920.1040" timestamp="1605623361902" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606140087601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.54.1536.824@0.0.1920.1040" timestamp="1606140087601" />
+    <state x="342" y="140" key="new project wizard" timestamp="1603876356785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.54.1536.824@0.0.1920.1040" timestamp="1603876356785" />
+  </component>
+</project>
