@@ -6,10 +6,10 @@
     </target>
     <target name="compile-base">
         <mkdir dir="deploy/base"/>
-        <javac srcdir="SWTKal.Base/src/swtkal" destdir="deploy/base"/>
+        <javac srcdir="SWTKal.Base/src/swtkal" destdir="deploy/base" encoding="Cp1252"/>
     </target>
     <target name="compile-swinggui" depends="compile-base">
         <mkdir dir="deploy/swing"/>
-        <javac classpath="deploy/base" srcdir="SWTKal.SwingGUI/src/swtkal/swing" destdir="deploy/swing"/>
+        <javac classpath="deploy/base" srcdir="SWTKal.SwingGUI/src/swtkal/swing" destdir="deploy/swing" encoding="Cp1252" />
     </target>
 </project>

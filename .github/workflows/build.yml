@@ -15,7 +15,7 @@ jobs:
         with:
           java-version: 1.8
       - name: Build Project
-        run: ant -Dfile.encoding=Cp1252 -noinput -buildfile build.xml
+        run: ant -noinput -buildfile build.xml
   sonarcloud:
     name: SonarCloud
     runs-on: ubuntu-latest
